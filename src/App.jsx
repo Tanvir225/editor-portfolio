@@ -442,7 +442,7 @@ export default function App() {
         <div className="hero-content relative z-10 h-full flex items-center px-5 md:px-10 lg:px-20">
           <div className="max-w-6xl">
 
-            <p className="hero-small-text text-lime-300 uppercase tracking-[0.35em] text-xs md:text-sm mt-14">
+            <p className="hero-small-text text-lime-300 uppercase tracking-[0.35em] text-xs md:text-sm mb-5 md:mt-20">
               Video Editor · Creative Designer · Web Developer
             </p>
 
